@@ -12,11 +12,11 @@
   text-align: right;
 }
 
-.header__image {
+.header-image {
   width: 100%;
 }
 
-.header__link {
+.header-link {
   font-family: fantasy, cursive;
 }
 
@@ -34,7 +34,7 @@
   margin: 0 auto 0;
 }
 
-.add__form {
+.add-form {
   display: flex;
   margin-top: 20px;
 }
@@ -79,7 +79,7 @@ button {
   text-transform: uppercase;
 }
 
-.header__text {
+.header-text {
     font-size: 15px;
 }
 
@@ -163,11 +163,11 @@ button {
   display: none;
 }
 
-.editMode .input-text {
+.edit-mode .input-text {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .label {
+.edit-mode .label {
   display: none;
 }
